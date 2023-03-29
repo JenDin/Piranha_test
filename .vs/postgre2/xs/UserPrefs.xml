@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{225B955F-EA7D-4AE7-A553-69F357E81127}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.postgre2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Post.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="11" Column="90" />
+      <File FileName="Program.cs" Line="52" Column="68" />
+      <File FileName="Models/StandardPage.cs" Line="30" Column="2" />
+      <File FileName="Controllers/PageApiController.cs" Line="113" Column="1" />
+      <File FileName="Models/ProductPage.cs" Line="26" Column="1" />
+      <File FileName="Models/Post.cs" Line="19" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="postgre2" expanded="True">
+            <Node name="postgre2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Post.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

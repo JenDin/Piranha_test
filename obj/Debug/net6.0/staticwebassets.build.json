@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "iW/jQaH4OQAZ16LqccXcWhSKirykB4t9AQtSN52xo/s=",
+  "Source": "postgre2",
+  "BasePath": "_content/postgre2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "postgre2/wwwroot",
+      "Source": "postgre2",
+      "ContentRoot": "/Users/jennydinh/Desktop/postgre2/wwwroot/",
+      "BasePath": "_content/postgre2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/jennydinh/Desktop/postgre2/wwwroot/empty.txt",
+      "SourceId": "postgre2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jennydinh/Desktop/postgre2/wwwroot/",
+      "BasePath": "_content/postgre2",
+      "RelativePath": "empty.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/empty.txt"
+    },
+    {
+      "Identity": "/Users/jennydinh/Desktop/postgre2/wwwroot/uploads/693a8e32-8a4b-44c1-8c5b-ab66455f728e/rumman-amin-nKs-oXRGGEg-unsplash_(1)_(1)_210x160.jpg",
+      "SourceId": "postgre2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jennydinh/Desktop/postgre2/wwwroot/",
+      "BasePath": "_content/postgre2",
+      "RelativePath": "uploads/693a8e32-8a4b-44c1-8c5b-ab66455f728e/rumman-amin-nKs-oXRGGEg-unsplash_(1)_(1)_210x160.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/693a8e32-8a4b-44c1-8c5b-ab66455f728e/rumman-amin-nKs-oXRGGEg-unsplash_(1)_(1)_210x160.jpg"
+    },
+    {
+      "Identity": "/Users/jennydinh/Desktop/postgre2/wwwroot/uploads/693a8e32-8a4b-44c1-8c5b-ab66455f728e/rumman-amin-nKs-oXRGGEg-unsplash_(1)_(1).jpg",
+      "SourceId": "postgre2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jennydinh/Desktop/postgre2/wwwroot/",
+      "BasePath": "_content/postgre2",
+      "RelativePath": "uploads/693a8e32-8a4b-44c1-8c5b-ab66455f728e/rumman-amin-nKs-oXRGGEg-unsplash_(1)_(1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/693a8e32-8a4b-44c1-8c5b-ab66455f728e/rumman-amin-nKs-oXRGGEg-unsplash_(1)_(1).jpg"
+    }
+  ]
+}
